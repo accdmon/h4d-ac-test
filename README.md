@@ -4,8 +4,8 @@ A sample code of PHP with Laravel
 ## Deploy this app to localhost
 
 ```
-$ git clone https://github.com/niwasawa/php-laravel-hello-world.git
-$ cd php-laravel-hello-world/
+$ git clone https://github.com/accdmon/h4d-ac-test.git
+$ cd h4d-ac-test/
 $ composer install
 $ php artisan serve
 ```
